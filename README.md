@@ -1,13 +1,13 @@
 # Hamza Zyoud
 
-Junior Backend Engineer focused on Python and Django (DRF). I build clean REST APIs, design data models, and integrate third-party services (webhooks/APIs). I care about reliability: tests, background jobs, and predictable deployments.
+Junior Backend Engineer focused on Python and Django (DRF). I build clean REST APIs, design data models, and integrate third-party services (webhooks/APIs).
 
 ## Tech I use
 - Python, Django, DRF
 - PostgreSQL, Redis
 - Celery (background jobs)
 - Docker, GitHub Actions
-- Next.js (when a frontend is needed)
+
 
 ## Featured project
 ### Smart Health Care System (Senior Project)
