@@ -10,10 +10,17 @@ Junior Backend Engineer focused on Python and Django (DRF). I build clean REST A
 
 
 ## Featured project
-### Smart Health Care System (Senior Project)
-A system that combines a backend API, a frontend, and ML components.
+### [RAG Search Engine](https://github.com/7amziiiii/rag-search-engine)
+I’m currently building a Retrieval-Augmented Generation (RAG) search engine from scratch to strengthen my backend and search-engineering fundamentals.
 
-- Repo: https://github.com/7amziiiii/Senior-Project-Smart-Health-Care-System
+**Current focus and learning**
+- Building retrieval pipelines step by step (preprocessing, indexing, querying)
+- Improving search quality from basic keyword matching toward stronger ranking methods
+- Designing systems that return grounded, context-based answers instead of guesswork
+
+
+### [Smart-Health-Care-System](https://github.com/7amziiiii/Senior-Project-Smart-Health-Care-System)
+A system that combines a backend API, a frontend, and ML components.
 - **What I did**
     - Designed and implemented a Django REST API with authentication and role-based access control (admin, staff, users).
     - Built core backend services for operation room management, surgery data, asset/equipment tracking, and outbound workflows.
