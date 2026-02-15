@@ -1,34 +1,47 @@
-# Hamza Zyoud
+# Hello World!!
 
-Junior Backend Engineer focused on Python and Django (DRF). I build clean REST APIs, design data models, and integrate third-party services (webhooks/APIs).
+###
 
-## Tech I use
-- Python, Django, DRF
-- PostgreSQL, Redis
-- Celery (background jobs)
-- Docker, GitHub Actions
+### Who is Hamza?
+###
+
+I’m Hamza Zyoud — Software Engineer (backend-first).
+I build APIs, integrations, and internal dashboards/tools that help teams ship and operate faster.
+
+###
+
+### Tech I use
+###
+
+- **Backend:** Python, Django, Django REST Framework
+- **Databases:** PostgreSQL
+- **Async/Queues:** Celery, Redis
+- **Frontend:** TypeScript, Next.js
+- **APIs:** REST, Webhooks, Meta APIs
+
+###
+
+### What’s Hamza up to?
+###
+
+- Building systems around external APIs (Meta, webhooks, third-party services)
+- Delivering headless e-commerce solutions (storefront + backend service integration)
+- Improving my fundamentals through hands-on projects (search/retrieval, backend architecture)
+
+###
+
+### Some key projects I’m proud of:
+###
+
+- [**RAG Search Engine**](https://github.com/7amziiiii/rag-search-engine): Boot.dev project building a RAG pipeline from scratch: text preprocessing, indexing, retrieval, scoring/ranking (e.g., BM25), and an evaluation-focused roadmap to iterate on result quality.
+
+- [**Smart Health Care System (Backend)**](https://github.com/7amziiiii/Senior-Project-Smart-Health-Care-System): Django REST backend for a healthcare management platform — authentication + role-based access control, operational workflows (verification/approvals), asset/equipment tracking, and integration points for ML/predictive maintenance features.
+
+###
 
 
-## Featured project
-### [RAG Search Engine](https://github.com/7amziiiii/rag-search-engine)
-I’m currently building a Retrieval-Augmented Generation (RAG) search engine from scratch to strengthen my backend and search-engineering fundamentals.
 
-**Current focus and learning**
-- Building retrieval pipelines step by step (preprocessing, indexing, querying)
-- Improving search quality from basic keyword matching toward stronger ranking methods
-- Designing systems that return grounded, context-based answers instead of guesswork
-
-
-### [Smart-Health-Care-System](https://github.com/7amziiiii/Senior-Project-Smart-Health-Care-System)
-A system that combines a backend API, a frontend, and ML components.
-- **What I did**
-    - Designed and implemented a Django REST API with authentication and role-based access control (admin, staff, users).
-    - Built core backend services for operation room management, surgery data, asset/equipment tracking, and outbound workflows.
-    - Implemented REST endpoints, serializers, permissions, pagination, and service layers following clean structure.
-    - Integrated real-time verification and polling mechanisms with proper error handling and token-based auth.
-    - Developed asset and equipment tracking logic (including RFID-based flows) and exposed them via APIs.
-    - Added ML-powered predictive maintenance features and linked trained models to backend API endpoints.
-
-
+### My Resume
+ - [View Resume](https://flowcv.com/resume/2pgb5mbcavmm)
 
 
