@@ -42,6 +42,6 @@ I build APIs, integrations, and internal dashboards/tools that help teams ship a
 
 
 ### My Resume
- - [View Resume](https://flowcv.com/resume/2pgb5mbcavmm)
+ - [View Resume]([https://flowcv.com/resume/2pgb5mbcavmm](https://drive.google.com/file/d/1iKQ7JMLgTMQpD3N9hZ3ceFMKXqk_SYgl/view?usp=drive_link))
 
 
